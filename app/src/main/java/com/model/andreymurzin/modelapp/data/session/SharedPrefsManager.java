@@ -1,4 +1,4 @@
-package com.model.andreymurzin.modelapp.session;
+package com.model.andreymurzin.modelapp.data.session;
 
 import android.content.SharedPreferences;
 import android.support.annotation.NonNull;

@@ -4,7 +4,7 @@ package com.model.andreymurzin.modelapp.presentation.splash;
 import com.arellomobile.mvp.InjectViewState;
 import com.model.andreymurzin.modelapp.navigation.Screen;
 import com.model.andreymurzin.modelapp.presentation.base.BasePresenter;
-import com.model.andreymurzin.modelapp.session.SessionManager;
+import com.model.andreymurzin.modelapp.data.session.SessionManager;
 
 import javax.inject.Inject;
 
