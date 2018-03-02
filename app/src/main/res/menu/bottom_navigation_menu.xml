@@ -19,5 +19,5 @@
         android:id="@+id/item_profile"
         android:enabled="true"
         android:title="@string/menu_profile"
-        android:icon="@drawable/ic_profile"/>
+        android:icon="@drawable/ic_home"/>
 </menu>
