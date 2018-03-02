@@ -1,10 +1,10 @@
-package com.model.andreymurzin.modelapp.presentation.splash.di;
+package com.model.andreymurzin.modelapp.presentation.start.di;
 
 
 import com.model.andreymurzin.modelapp.R;
 import com.model.andreymurzin.modelapp.app.di.scope.ActivityScope;
 import com.model.andreymurzin.modelapp.navigation.SplashActivityNavigator;
-import com.model.andreymurzin.modelapp.presentation.splash.StartActivity;
+import com.model.andreymurzin.modelapp.presentation.start.StartActivity;
 
 import dagger.Module;
 import dagger.Provides;

@@ -1,4 +1,4 @@
-package com.model.andreymurzin.modelapp.presentation.splash;
+package com.model.andreymurzin.modelapp.presentation.start;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

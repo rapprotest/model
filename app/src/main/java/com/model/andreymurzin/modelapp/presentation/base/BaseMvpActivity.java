@@ -1,4 +1,4 @@
-package com.model.andreymurzin.modelapp.presentation;
+package com.model.andreymurzin.modelapp.presentation.base;
 
 
 import android.os.Bundle;
